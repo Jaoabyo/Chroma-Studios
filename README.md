@@ -49,4 +49,4 @@ O site é hospedado no Netlify com deploy automático a partir da branch `main`.
 
 ## Desenvolvido por
 
-**João Vitor Nunes de Quevedo** — [@jaoaDev](https://github.com/jaoaDev)
+**João Vitor Nunes de Quevedo** — [@jaoaDev](https://github.com/jaoabyo)
