@@ -1,5 +1,7 @@
 # Chroma Studios
 
+![Banner](img/banner-hero.png)
+
 Site institucional desenvolvido para o **Chroma Studios** — estúdio de gravação, produção de beats, mixagem e masterização profissional em Bauru e Lins, SP.
 
 ## Demo
