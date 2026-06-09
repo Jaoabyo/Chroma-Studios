@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chromastudios.com.br/sitemap.xml

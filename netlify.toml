@@ -1,0 +1,11 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "encrypted-media=*, autoplay=*, fullscreen=*"
+
+[[headers]]
+  for = "*.mp4"
+  [headers.values]
+    Content-Type = "video/mp4"
+    Accept-Ranges = "bytes"
+    Cache-Control = "public, max-age=31536000"
